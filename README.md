@@ -4,3 +4,5 @@
 -mayo
 -mustard
 -oat milk
+-bacon
+-toothpaste
